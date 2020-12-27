@@ -1,4 +1,4 @@
-# Fract-ol
+# Fract'ol
 
 School project:
 A small fractal exploration program
