@@ -1,5 +1,9 @@
 # Fract-ol
 
+School project:
+A small fractal exploration program
+
+
 <img align="left" width="150" height="150" SRC="pics/fr1.png">
 <img align="left" width="150" height="150" SRC="pics/fr2.png">
 <img align="left" width="150" height="150" SRC="pics/fr3.png">
