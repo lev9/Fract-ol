@@ -1,6 +1,6 @@
 # Fract'ol
 
-A Hive Helsinki school project Fract'ol.
+Hive Helsinki school project Fract'ol.
 
 A small fractal exploration program.
 
