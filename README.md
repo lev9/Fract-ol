@@ -9,7 +9,7 @@
 <img align="left" width="150" height="200" SRC="pics/buddha_7.png">
 <img align="left" width="150" height="200" SRC="pics/buddha_8.png">
 <img align="left" width="150" height="200" SRC="pics/buddha_9.png">
-<img align="left" width="150" height="200" SRC="pics/fr1.png">
+<img align="left" width="100" height="100" SRC="pics/fr1.png">
 <img align="left" width="150" height="200" SRC="pics/fr2.png">
 <img align="left" width="150" height="200" SRC="pics/fr3.png">
 <img align="left" width="150" height="200" SRC="pics/fr4.png">
