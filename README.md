@@ -1,12 +1,12 @@
 # Fract'ol
 
-A Hive Helsinki school project Fract'ol:
+- a Hive Helsinki school project Fract'ol:
 
-A small fractal exploration program.
+- a small fractal exploration program.
 
 	make && ./fractol [fractal type]
 
-types: julia / mandelbrot / burningship / buddhabrot
+- types: julia / mandelbrot / burningship / buddhabrot
 
 <img align="left" width="150" height="150" SRC="pics/fr1.png">
 <img align="left" width="150" height="150" SRC="pics/fr2.png">
