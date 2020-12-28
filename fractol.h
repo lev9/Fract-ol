@@ -15,8 +15,8 @@
 # define THREADS 12
 # define SIZE 720
 
-# include "libft/libft.h"
-# include <mlx.h>
+# include "lib/libft/libft.h"
+# include "lib/libmlx2/mlx.h"
 # include <unistd.h>
 # include <stdlib.h>
 # include <math.h>
