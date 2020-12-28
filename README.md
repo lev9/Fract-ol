@@ -4,7 +4,7 @@
 
 - a small fractal exploration program.
 
-	make && ./fractol [fractal type]
+		make && ./fractol [fractal type]
 
 - types: julia / mandelbrot / burningship / buddhabrot
 
