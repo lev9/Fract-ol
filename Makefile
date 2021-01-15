@@ -22,7 +22,7 @@ SRC = main.c preparations.c draw_utils.c threader.c threader2.c threader3.c \
 
 OBJ = $(subst .c,.o,$(SRC))
 
-MLXFLAGS = -I$(LIBMLX2) -L$(LIBMLX2) -lmlx -I /usr/X11/include \
+MLXFLAGS = -L$(LIBMLX2) -lmlx -I /usr/X11/include \
         -L/usr/X11/lib -lX11 -lXext -framework OpenGL -framework Appkit
 
 LIBFTFLAGS = -L$(LIBFT) -lft
